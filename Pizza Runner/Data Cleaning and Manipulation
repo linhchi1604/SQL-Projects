@@ -1,0 +1,5 @@
+The data needs cleaning since there are inconsistancy and missing values.
+
+### Table 2: customer_orders
+Problem: blank space, 'null' value in exclusions and extras
+- Update 'null' values as NULL
