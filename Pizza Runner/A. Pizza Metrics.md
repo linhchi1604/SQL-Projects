@@ -1,3 +1,4 @@
+# A. Pizza Metrics
 ### 1. How many pizzas were ordered?
 ```
 SELECT COUNT(order_id) AS total_pizzas
