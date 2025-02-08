@@ -1,3 +1,4 @@
+# B. Runner and Customer Experience
 ### 1. How many runners signed up for each 1 week period?
 ```
 SELECT DATEPART(week, registration_date) AS week_number, COUNT(runner_id) AS num_register
